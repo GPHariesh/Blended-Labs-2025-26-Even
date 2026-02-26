@@ -118,6 +118,8 @@ Terminate the EC2 instance after completing the experiment to avoid unnecessary 
 
 <img width="1288" height="917" alt="Screenshot 2026-02-25 134319" src="https://github.com/user-attachments/assets/50e968f2-9ed3-4f26-af5d-72e1e81c4892" />
 
+<img width="1920" height="1080" alt="Screenshot (218)" src="https://github.com/user-attachments/assets/d33d5530-742e-41ac-8fde-77981577c298" />
+
 
 ### Screenshot 3: Instance Monitoring / Status
 
