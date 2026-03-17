@@ -1,4 +1,7 @@
 # Lab 6 – Scale and Load Balance Your Architecture
+## NAME : G P HARIESH
+## REG.NO : 212224040100
+## DATE : 17-03-2026
 
 ## Title
 
@@ -83,6 +86,12 @@ Finally, I tested the setup by generating traffic to the Load Balancer DNS name.
 
 
 ## Output Screenshots 
+<img width="1270" height="607" alt="Screenshot 2026-03-17 131551" src="https://github.com/user-attachments/assets/5fb403f1-4033-4da3-8d3d-0daf8230fb06" />
+<img width="1263" height="568" alt="Screenshot 2026-03-17 131616" src="https://github.com/user-attachments/assets/0414450d-0db4-4d03-8927-6338d4036ed3" />
+
+
+<img width="1274" height="576" alt="Screenshot 2026-03-17 131729" src="https://github.com/user-attachments/assets/9e88a70a-def9-4715-9ffc-54b441b97922" />
+
 
 
 
